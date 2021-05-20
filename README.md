@@ -1,4 +1,4 @@
-# H4CK Instagram News 2020 
+# H4CK Instagram News 19 MEI 2021 
 UPDATED DAILY!
 <br>
 <br>
@@ -131,3 +131,5 @@ curl "http://pubproxy.com/api/proxy?limit=2&format=txt&http=true&country=US&type
 Proxy server data courtesy of:
 * [Proxyspy](http://spys.one/en/)
 * [PubProxy](http://pubproxy.com/)
+
+## Author ®SecxXx.iĐ
